@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "dev": "deno run --allow-read --allow-env --allow-write --allow-net  dt.ts"
+  }
+}
